@@ -2,7 +2,7 @@
 local joinSound = Instance.new("Sound")
 joinSound.Name = "JoinSound"
 joinSound.SoundId = "rbxassetid://83142874256382" -- ID nhạc khi chạy mã
-joinSound.Volume = 3
+joinSound.Volume = 0
 joinSound.Looped = false
 joinSound.Parent = workspace
 joinSound:Play()
